@@ -1,0 +1,17 @@
+{
+  "name": "bower-metronic",
+  "homepage": "https://github.com/bugs-2209/bower-metronic",
+  "authors": [
+    "Nguyen Cuong <cuong2209s@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
